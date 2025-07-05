@@ -1,0 +1,7 @@
+yt-dlp
+groq
+langchain
+langchain-groq
+python-dotenv
+google-api-python-client
+isodate
